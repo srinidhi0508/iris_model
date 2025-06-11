@@ -1,10 +1,10 @@
 # iris_model
 A simple Machine Learning model (Iris flower classifier using scikit-learn) and deploy it using Streamlit (for a web app)
-# 🌸 Iris Flower Prediction - ML Project
+# Iris Flower Prediction - ML Project
 
 This is a simple Machine Learning project to classify iris flowers into three species (*setosa*, *versicolor*, *virginica*) using the Random Forest Classifier. The model is trained on the famous Iris dataset and deployed using Streamlit.
 
-## 📊 Dataset
+## Dataset
 
 - Dataset: **Iris** from `sklearn.datasets`
 - Features:
@@ -16,21 +16,21 @@ This is a simple Machine Learning project to classify iris flowers into three sp
 
 ---
 
-## ⚙️ Model
+##  Model
 
 - Algorithm: `RandomForestClassifier` from `sklearn.ensemble`
 - Accuracy: ~95% (can vary slightly on different runs)
 
 ---
 
-## 🖥️ Deployment
+##  Deployment
 
 - **Local**: `streamlit run app.py`
 - **Online**: Deployed via **Streamlit Cloud** (link below)
 
 ---
 
-## 🧪 Files Included
+##  Files Included
 
 - `model.py` → Trains and saves the model as `iris_model.pkl`
 - `app.py` or `add.py` → Streamlit UI for prediction
@@ -39,13 +39,13 @@ This is a simple Machine Learning project to classify iris flowers into three sp
 
 ---
 
-## 🚀 Try it Live
+## Try it Live
 
-[🌐 Deployed App on Streamlit Cloud]()
+[🌐 Deployed App on Streamlit Cloud](https://irismodel-ijyjxhzmt6n6xxddkgzklb.streamlit.app/)
 
 ---
 
-## 📦 Installation
+## Installation
 
 ```bash
 pip install -r requirements.txt
