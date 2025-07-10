@@ -33,7 +33,7 @@ This is a simple Machine Learning project to classify iris flowers into three sp
 ##  Files Included
 
 - `model.py` → Trains and saves the model as `iris_model.pkl`
-- `app.py` or `add.py` → Streamlit UI for prediction
+- `add.py` → Streamlit UI for prediction
 - `iris_model.pkl` → Saved model
 - `requirements.txt` → List of packages for deployment
 
