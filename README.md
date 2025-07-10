@@ -49,5 +49,5 @@ This is a simple Machine Learning project to classify iris flowers into three sp
 
 ```bash
 pip install -r requirements.txt
-streamlit run app.py
+streamlit run add.py
 
